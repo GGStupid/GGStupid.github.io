@@ -69,7 +69,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:  git
-  repo:  
-      github:  https://github.com/GGStupid/GGStupid.github.io.git
-      coding:  https://coding.net/u/GG_Stupid/p/hexo_blog
+  repo:  https://github.com/GGStupid/GGStupid.github.io.git
   branch: master
