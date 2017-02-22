@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: GGstupid-blog
-subtitle: this is my blog
-description: my blog
+title:  0^0老实人
+subtitle: 不进则退
+description: 好好学习，天天向上！
 author: GGstupid
 language: zh-Hans
 timezone:
@@ -69,5 +69,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:  git
-  repo:  https://github.com/GGStupid/GGStupid.github.io.git
+  repo:  
+      github:  https://github.com/GGStupid/GGStupid.github.io.git
+      coding:  https://coding.net/u/GG_Stupid/p/hexo_blog
   branch: master
