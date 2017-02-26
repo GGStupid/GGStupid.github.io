@@ -4,6 +4,7 @@
 Thumbs.db
 db.json
 *.log
+themes/next/.github
 node_modules/
 public/
 .deploy*/
