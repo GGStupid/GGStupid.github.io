@@ -6,7 +6,7 @@ tags:
 categories:
 	- vue
 ---
-# NPM安装
+# NPM安装 <!-- more -->
 安装` vue-router `到依赖
 ``` 
 npm install vue-router -D 
