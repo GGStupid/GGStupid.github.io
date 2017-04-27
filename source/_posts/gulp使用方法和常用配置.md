@@ -7,7 +7,7 @@ categories:
 	- 前端自动化工具
 ---
 # 安装
-首先安装[node](http://nodejs.cn/),然后用`npm`全局安装就行
+首先安装[node](http://nodejs.cn/),然后用`npm`全局安装就行  <!-- more -->
 ``` bash
 npm install gulp -g
 //进入项目目录,--save-dev可以把gulp写进项目的package.json的依赖里
